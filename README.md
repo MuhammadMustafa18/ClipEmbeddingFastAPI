@@ -75,7 +75,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## ⚙️ Notes
+## Notes
 
 * Model used: `clip-ViT-B-32`
 * Supports **GPU acceleration** if available (automatically detected).
@@ -83,7 +83,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧪 Example curl Request
+## Example curl Request
 
 ```bash
 curl -X POST http://127.0.0.1:8000/embed-text -F "text=A dog playing guitar"
